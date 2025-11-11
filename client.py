@@ -3,8 +3,8 @@ from time import sleep, time
 import sqlite3
 
 
-USERNAME = 'randomchat.bsky.social'
-PASSWORD = 't4fo-4tcw-4yqe-g3hp' 
+USERNAME = 'username-here'
+PASSWORD = 'password-here' 
 
 
 def get_users_in_db(cur, did):
